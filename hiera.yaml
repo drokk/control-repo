@@ -3,7 +3,7 @@ version: 5
 
 hierarchy:
   - name: "Encrypted data"
-    lookup_key: eyaml_lookup_key
+    lookup_key: eyaml_lookup_key
     paths:
       - "nodes/%{trusted.certname}.yaml"
       - "os/%{facts.os.family}.yaml"
