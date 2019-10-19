@@ -1,7 +1,7 @@
 ---
-version: 5  
+version: 5 
 
-hierarchy:  
+hierarchy:
   - name: "Encrypted data"
     lookup_key: eyaml_lookup_key
     paths:
