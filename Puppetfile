@@ -11,3 +11,5 @@ mod 'drokk-git',
    :git => 'https://github.com/drokk/elk.git'
 #mod 'joshsamuelson-elk',
 #  :git => 'https://github.com/joshsamuelson/joshsamuelson-elk.git'
+mod 'puppet-archive', '4.3.0'
+mod 'puppetlabs-java', '5.0.1'
