@@ -7,5 +7,5 @@ mod 'elastic-kibana', '6.3.1'
 mod 'richardc-datacat', '0.6.2'
 mod 'elastic-elasticsearch', '6.4.0'
 mod 'elastic-logstash', '6.1.5'
-mod 'drokk-elk',
-    :git => 'https://github.com/drokk/test-elk.git'
+mod 'drokk-git',
+    :git => 'https://github.com/drokk/elk.git'
