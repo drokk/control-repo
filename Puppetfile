@@ -7,9 +7,9 @@ mod 'elastic-kibana', '6.3.1'
 mod 'richardc-datacat', '0.6.2'
 mod 'elastic-elasticsearch', '6.4.0'
 mod 'elastic-logstash', '6.1.5'
+mod 'puppet-archive', '4.3.0'
+mod 'puppetlabs-java', '5.0.1'
 #mod 'drokk-git',
 #   :git => 'https://github.com/drokk/elk.git'
 mod 'joshsamuelson-elk',
   :git => 'https://github.com/joshsamuelson/joshsamuelson-elk.git'
-mod 'puppet-archive', '4.3.0'
-mod 'puppetlabs-java', '5.0.1'
