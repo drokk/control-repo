@@ -9,7 +9,7 @@ mod 'elastic-elasticsearch', '6.4.0'
 mod 'elastic-logstash', '6.0.2'
 mod 'puppet-archive', '4.3.0'
 mod 'puppetlabs-java', '5.0.1'
-mod 'drokk-elk',
-   :git => 'https://github.com/drokk/elk.git'
-#mod 'joshsamuelson-elk',
-# :git => 'https://github.com/joshsamuelson/joshsamuelson-elk.git'
+#mod 'drokk-elk',
+#   :git => 'https://github.com/drokk/elk.git'
+mod 'joshsamuelson-elk',
+ :git => 'https://github.com/joshsamuelson/joshsamuelson-elk.git'
